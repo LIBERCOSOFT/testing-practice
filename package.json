@@ -1,0 +1,24 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "A practice with unit tests using jest library and the AAA pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LIBERCOSOFT/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LIBERCOSOFT/testing-practice/issues"
+  },
+  "homepage": "https://github.com/LIBERCOSOFT/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
